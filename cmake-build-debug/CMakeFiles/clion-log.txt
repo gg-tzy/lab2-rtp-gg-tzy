@@ -1,0 +1,4 @@
+/home/tzy/Desktop/clion-2022.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/tzy/Desktop/clion-2022.2.3/bin/ninja/linux/ninja -G Ninja -S /home/tzy/Desktop/lab2-rtp-gg-tzy/Lab2-RTP-Test -B /home/tzy/Desktop/lab2-rtp-gg-tzy/Lab2-RTP-Test/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tzy/Desktop/lab2-rtp-gg-tzy/Lab2-RTP-Test/cmake-build-debug
